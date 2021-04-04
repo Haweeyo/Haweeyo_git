@@ -1,5 +1,6 @@
 # message
 # 안녕하세요, 신홍정입니다~
+# Github
 
 #Youtube 채널로 오시면
 #더욱 다양한 여러가지 영상들을
@@ -11,6 +12,3 @@
 
 #Contact
 #E-mail : sin0807t@naver.com
-
-#추가된 메세지입니다
-#추가된 메세지입니다
